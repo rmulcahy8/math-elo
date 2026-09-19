@@ -1,6 +1,6 @@
 # Math Elo
 
-Free solo and 1v1 mental math games.
+Solo and 1v1 math challenges, from arithmetic to graduate topics. Solve. Compete. Climb.
 
 Play at https://rmulcahy8.github.io/math-elo/
 
